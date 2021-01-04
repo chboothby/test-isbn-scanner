@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Basic&display=swap");
+
+body {
+  background-color: #509cdf;
+  text-align: center;
+  font-family: "Gentium Basic", sans-serif;
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem auto;
+  background: #faf9f4;
+  padding: 1rem;
+  width: 300px;
+}
+ul {
+  padding-left: 0;
+}
+
+img {
+  width: 140px;
+  margin: 0 auto;
+}
+
+button {
+  width: 5rem;
+  margin: 0 auto;
+}
